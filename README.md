@@ -4,4 +4,4 @@ ServeFlow is a touch-first restaurant POS system designed to accelerate cashier 
 
 <br>
 
-<h1 align="center">Case Study and UI Screens</h1>
+<h1 align="center">Case Study</h1>
